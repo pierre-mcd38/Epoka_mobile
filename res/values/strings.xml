@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Epoka</string>
+    <string name="server">172.16.47.3</string>
+</resources>
